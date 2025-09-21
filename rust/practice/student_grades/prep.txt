@@ -1,6 +1,0 @@
-on new instance, check if cfg.txt exists, else create new 
-- when reading from cfg:
-	- pull top line for games played
-	- pull second line for current average score
-	- mult current average by games played and floor it
-	- += to modify the average

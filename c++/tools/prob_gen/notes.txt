@@ -1,6 +1,0 @@
-this is terrible what were you thinking man...
-
-- code needs to be drastically simplified, doesn't need to be passing
-  functions all over b/c it is literally like a few hundred lines
-- implement difficulty scaling IN AN INTELLIGENT WAY do not just
-  add different templates

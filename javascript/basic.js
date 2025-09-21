@@ -1,4 +1,0 @@
-function random_number() {	
-  
-
-}
